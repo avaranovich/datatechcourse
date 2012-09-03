@@ -1,3 +1,3 @@
-# How does it work?
+Riak
 
-Enter Text in Markdown format.
+http://www.slideshare.net/dreverri/riak-mapreduce
