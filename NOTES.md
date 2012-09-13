@@ -1,3 +1,6 @@
+Ideas for slides:
+- Nonrelational Database Systems, Not-Only SQL or NoSQL?
+
 Riak
 http://www.slideshare.net/dreverri/riak-mapreduce
 
